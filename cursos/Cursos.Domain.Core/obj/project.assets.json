@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Cursos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Cursos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cursos.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Cursos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Cursos.Domain/Cursos.Domain.csproj",
+      "msbuildProject": "../Cursos.Domain/Cursos.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Cursos.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jnogueira\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\CSharp\\api-csharp\\cursos\\Cursos.Domain\\Cursos.Domain.csproj": {
+              "projectPath": "C:\\CSharp\\api-csharp\\cursos\\Cursos.Domain\\Cursos.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

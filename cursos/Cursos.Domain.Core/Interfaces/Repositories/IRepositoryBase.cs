@@ -2,12 +2,12 @@
 
 namespace Cursos.Domain.Core.Interfaces.Repositories
 {
-    interface IRepositoryBase<TEntity> where TEntity : class
+    public interface IRepositoryBase<TEntitie> where TEntitie : class
     {
-        void Add(TEntity obj);
-        void Update(TEntity obj);
-        void Remove(TEntity obj);
-        IEnumerable<TEntity> GetAll();
-        TEntity GetById(int id);
+        void Add(TEntitie obj);
+        void Update(TEntitie obj);
+        void Remove(TEntitie obj);
+        IEnumerable<TEntitie> GetAll();
+        TEntitie GetById(int id);
     }
 }

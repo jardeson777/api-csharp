@@ -170,6 +170,19 @@
         "runtime": {
           "bin/placeholder/Cursos.Domain.dll": {}
         }
+      },
+      "Cursos.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Cursos.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cursos.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cursos.Domain.Core.dll": {}
+        }
       }
     }
   },
@@ -534,11 +547,17 @@
       "type": "project",
       "path": "../Cursos.Domain/Cursos.Domain.csproj",
       "msbuildProject": "../Cursos.Domain/Cursos.Domain.csproj"
+    },
+    "Cursos.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../Cursos.Domain.Core/Cursos.Domain.Core.csproj",
+      "msbuildProject": "../Cursos.Domain.Core/Cursos.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Cursos.Domain >= 1.0.0",
+      "Cursos.Domain.Core >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0"
     ]
   },
@@ -569,6 +588,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\CSharp\\api-csharp\\cursos\\Cursos.Domain.Core\\Cursos.Domain.Core.csproj": {
+              "projectPath": "C:\\CSharp\\api-csharp\\cursos\\Cursos.Domain.Core\\Cursos.Domain.Core.csproj"
+            },
             "C:\\CSharp\\api-csharp\\cursos\\Cursos.Domain\\Cursos.Domain.csproj": {
               "projectPath": "C:\\CSharp\\api-csharp\\cursos\\Cursos.Domain\\Cursos.Domain.csproj"
             }
