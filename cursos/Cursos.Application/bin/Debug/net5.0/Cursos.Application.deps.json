@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cursos.Application/1.0.0": {
+        "dependencies": {
+          "Cursos.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Cursos.Application.dll": {}
+        }
+      },
+      "Cursos.Domain/1.0.0": {
+        "runtime": {
+          "Cursos.Domain.dll": {}
+        }
+      },
+      "Cursos.Domain.Core/1.0.0": {
+        "dependencies": {
+          "Cursos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Cursos.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cursos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cursos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cursos.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

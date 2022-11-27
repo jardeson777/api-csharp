@@ -1,0 +1,17 @@
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\Cursos.Domain.Services.deps.json
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\Cursos.Domain.Services.dll
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\ref\Cursos.Domain.Services.dll
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\Cursos.Domain.Services.pdb
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\Cursos.Domain.Core.dll
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\Cursos.Domain.dll
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\Cursos.Domain.Core.pdb
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\bin\Debug\net5.0\Cursos.Domain.pdb
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.csproj.AssemblyReference.cache
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.AssemblyInfoInputs.cache
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.AssemblyInfo.cs
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.csproj.CoreCompileInputs.cache
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.csproj.CopyComplete
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.dll
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\ref\Cursos.Domain.Services.dll
+C:\CSharp\api-csharp\cursos\Cursos.Domain.Services\obj\Debug\net5.0\Cursos.Domain.Services.pdb

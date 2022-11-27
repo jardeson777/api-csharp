@@ -1,0 +1,17 @@
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Infra.deps.json
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Infra.dll
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\ref\Cursos.Infra.dll
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Infra.pdb
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Domain.Core.dll
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Domain.dll
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Domain.Core.pdb
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Domain.pdb
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.csproj.AssemblyReference.cache
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.AssemblyInfoInputs.cache
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.AssemblyInfo.cs
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.csproj.CoreCompileInputs.cache
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.csproj.CopyComplete
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.dll
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\ref\Cursos.Infra.dll
+C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.pdb
