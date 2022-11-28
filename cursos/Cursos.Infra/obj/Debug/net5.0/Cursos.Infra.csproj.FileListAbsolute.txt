@@ -15,3 +15,5 @@ C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.csproj.Co
 C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.dll
 C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\ref\Cursos.Infra.dll
 C:\CSharp\api-csharp\cursos\Cursos.Infra\obj\Debug\net5.0\Cursos.Infra.pdb
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Application.dll
+C:\CSharp\api-csharp\cursos\Cursos.Infra\bin\Debug\net5.0\Cursos.Application.pdb
